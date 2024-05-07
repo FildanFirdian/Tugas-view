@@ -1,7 +1,7 @@
 <?php
 use Illuminate\Support\Facades\Route;
 
-Route::get('/awalan ', function () {
+Route::get('/', function () {
     return view('awalan ');
 });
 Route::get('/form', function () {
