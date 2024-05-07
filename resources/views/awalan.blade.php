@@ -33,7 +33,7 @@
 
 <body>
     <div class="bungkus">
-    <h1>Media Online</h1>
+    <h1>media online</h1>
 <h3>Sosial media developer</h3>
 <p>Belajar dan berbagi agar hidup menjadi lebih baik</p>
 <h4>Benefit Join di Media Online</h4>
